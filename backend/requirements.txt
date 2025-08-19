@@ -1,0 +1,18 @@
+fastapi
+uvicorn
+redis
+pandas
+numpy
+scikit-learn
+requests
+pydantic
+python-dotenv
+aioredis
+httpx
+yfinance
+beautifulsoup4
+textblob
+schedule
+asyncio
+# uvloop
+loguru

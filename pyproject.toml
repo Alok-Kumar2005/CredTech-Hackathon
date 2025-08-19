@@ -1,0 +1,25 @@
+[project]
+name = "credtech-hackathon"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "aioredis>=2.0.1",
+    "asyncio>=4.0.0",
+    "beautifulsoup4>=4.13.4",
+    "fastapi>=0.116.1",
+    "httpx>=0.28.1",
+    "loguru>=0.7.3",
+    "numpy>=2.3.2",
+    "pandas>=2.3.1",
+    "pydantic>=2.11.7",
+    "python-dotenv>=1.1.1",
+    "redis>=6.4.0",
+    "requests>=2.32.5",
+    "schedule>=1.2.2",
+    "scikit-learn>=1.7.1",
+    "textblob>=0.19.0",
+    "uvicorn>=0.35.0",
+    "yfinance>=0.2.65",
+]
