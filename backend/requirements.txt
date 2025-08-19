@@ -6,6 +6,7 @@ numpy
 scikit-learn
 requests
 pydantic
+pydantic-settings
 python-dotenv
 aioredis
 httpx
